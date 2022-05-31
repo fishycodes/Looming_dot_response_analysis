@@ -1,0 +1,16 @@
+,Trial,Condition,Treatment,Subject,Strain,Date
+0,Trial 06,Basal,10,6,TU,24.05.2022
+1,Trial 07,Basal,10,7,TU,24.05.2022
+2,Trial 08,Basal,10,8,TU,24.05.2022
+3,Trial 09,Basal,10,9,TU,24.05.2022
+4,Trial 10,Basal,10,10,TU,24.05.2022
+5,Trial 16,Basal,10,16,StAR:bPAC+,24.05.2022
+6,Trial 17,Basal,10,17,StAR:bPAC+,24.05.2022
+7,Trial 18,Basal,10,18,StAR:bPAC+,24.05.2022
+8,Trial 19,Basal,10,19,StAR:bPAC+,24.05.2022
+9,Trial 20,Basal,10,20,StAR:bPAC+,24.05.2022
+10,Trial 26,Basal,10,26,StAR:bPAC-,24.05.2022
+11,Trial 27,Basal,10,27,StAR:bPAC-,24.05.2022
+12,Trial 28,Basal,10,28,StAR:bPAC-,24.05.2022
+13,Trial 29,Basal,10,29,StAR:bPAC-,24.05.2022
+14,Trial 30,Basal,10,30,StAR:bPAC-,24.05.2022
